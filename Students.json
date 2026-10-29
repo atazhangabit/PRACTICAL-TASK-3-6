@@ -1,0 +1,47 @@
+[
+  {
+    "student_id": 1001,
+    "first_name": "Aruzhan",
+    "last_name": "Nurlanova",
+    "birth_date": "2005-01-28",
+    "email": "aruzhan.nurlanova@stud.univ.edu.kz",
+    "phone": "+7 7010 318 36 16",
+    "group_id": 21
+  },
+  {
+    "student_id": 1002,
+    "first_name": "Nursultan",
+    "last_name": "Serikov",
+    "birth_date": "2006-07-23",
+    "email": "nursultan.serikov@stud.univ.edu.kz",
+    "phone": "+7 7060 529 19 82",
+    "group_id": 22
+  },
+  {
+    "student_id": 1003,
+    "first_name": "Dias",
+    "last_name": "Abdrakhmanov",
+    "birth_date": "2006-04-25",
+    "email": "dias.abdrakhmanov@stud.univ.edu.kz",
+    "phone": "+7 7044 444 21 49",
+    "group_id": 23
+  },
+  {
+    "student_id": 1004,
+    "first_name": "Aisha",
+    "last_name": "Kenzhebayeva",
+    "birth_date": "2005-01-14",
+    "email": "aisha.kenzhebayeva@stud.univ.edu.kz",
+    "phone": "+7 7025 237 41 22",
+    "group_id": 24
+  },
+  {
+    "student_id": 1005,
+    "first_name": "Yerkebulan",
+    "last_name": "Tokhtarov",
+    "birth_date": "2006-01-15",
+    "email": "yerkebulan.tokhtarov@stud.univ.edu.kz",
+    "phone": "+7 7072 281 97 81",
+    "group_id": 25
+  }
+]

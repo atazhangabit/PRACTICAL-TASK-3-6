@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <student_id>1001</student_id>
+    <first_name>Aruzhan</first_name>
+    <last_name>Nurlanova</last_name>
+    <birth_date>2005-01-28</birth_date>
+    <email>aruzhan.nurlanova@stud.univ.edu.kz</email>
+    <phone>+7 7010 318 36 16</phone>
+    <group_id>21</group_id>
+  </student>
+  <student>
+    <student_id>1002</student_id>
+    <first_name>Nursultan</first_name>
+    <last_name>Serikov</last_name>
+    <birth_date>2006-07-23</birth_date>
+    <email>nursultan.serikov@stud.univ.edu.kz</email>
+    <phone>+7 7060 529 19 82</phone>
+    <group_id>22</group_id>
+  </student>
+  <student>
+    <student_id>1003</student_id>
+    <first_name>Dias</first_name>
+    <last_name>Abdrakhmanov</last_name>
+    <birth_date>2006-04-25</birth_date>
+    <email>dias.abdrakhmanov@stud.univ.edu.kz</email>
+    <phone>+7 7044 444 21 49</phone>
+    <group_id>23</group_id>
+  </student>
+  <student>
+    <student_id>1004</student_id>
+    <first_name>Aisha</first_name>
+    <last_name>Kenzhebayeva</last_name>
+    <birth_date>2005-01-14</birth_date>
+    <email>aisha.kenzhebayeva@stud.univ.edu.kz</email>
+    <phone>+7 7025 237 41 22</phone>
+    <group_id>24</group_id>
+  </student>
+  <student>
+    <student_id>1005</student_id>
+    <first_name>Yerkebulan</first_name>
+    <last_name>Tokhtarov</last_name>
+    <birth_date>2006-01-15</birth_date>
+    <email>yerkebulan.tokhtarov@stud.univ.edu.kz</email>
+    <phone>+7 7072 281 97 81</phone>
+    <group_id>25</group_id>
+  </student>
+</students>
